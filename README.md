@@ -4,8 +4,8 @@ Fine-tuning a small language model to generate SVG code from natural language de
 
 ## Authors
 
-- [Jnanasree Konda] — [jk9286@nyu.edu]
-- [Rithwik Amajala] — [sa9880@nyu.edu]
+- Jnanasree Konda — jk9286@nyu.edu
+- Rithwik Amajala — sa9880@nyu.edu
 
 ## What We're Doing
 
@@ -38,5 +38,5 @@ pip install transformers peft accelerate bitsandbytes datasets scikit-learn lxml
 
 ## Code
 
-[Link your GitHub or Kaggle notebook URL here]
+https://github.com/JnanasreeKonda/SVG-Generation-from-Text-Prompts.git
 
